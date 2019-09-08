@@ -8,7 +8,7 @@ Chapters collected are then saved into text files.
 Converting the text files into audiobooks is done using [Balabolka - Command Line Utility](http://balabolka.site/bconsole.htm) .
 
 ## Usage
-Download [Balabolka - Command Line Utility](http://balabolka.site/bconsole.htm) and place it within the same directory as the the python notebook.
+Download [Balabolka - Command Line Utility](http://balabolka.site/bconsole.htm) and place it within the same directory as the the python notebook. To output .mp3 files instead of .wav (produce smaller files), download [Lame](http://www.rarewares.org/mp3-lame-bundle.php) and place it within the same directory.
 
 Select a light novel from one of the supported sources and copy the url of the first chapter.
 
